@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7DF&width=435&lines=There+is+JinYu!;Programing+is+life)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torchman005&show_icons=true&title_color=008B8B&text_color=008B8B&icon_color=483D8B&bg_color=DEG,54FF9F,7FFFD4,00C5CD)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torchman005&show_icons=true&title_color=7D26CD&text_color=7D26CD&icon_color=483D8B&bg_color=DEG,54FF9F,7FFFD4,00C5CD)
 <!-- Github统计卡片 -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Torchman005&repo=github-readme-stats)](https://github.com/Torchman005/github-readme-stats) <!-- 允许仓库置顶超过6个 -->
 
