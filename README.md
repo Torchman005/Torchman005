@@ -3,11 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7DF&width=435&lines=There+is+JinYu!;Programing+is+life)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torchman005&show_icons=true&hide_title=true&text_color=8B6914&icon_color=483D8B&bg_color=DEG,54FF9F,7FFFD4,00C5CD,AEEEEE,BBFFFF)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torchman005&show_icons=true&hide_title=true&text_color=8B6914&icon_color=483D8B&bg_color=DEG,008B8B,7FFFD4,00C5CD,AEEEEE,BBFFFF)
 <!-- Github统计卡片 -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Torchman005&repo=github-readme-stats)](https://github.com/Torchman005/github-readme-stats) <!-- 允许仓库置顶超过6个 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torchman005&show_icons=true&hide_title=true&text_color=8B6914&icon_color=483D8B&bg_color=DEG,54FF9F,7FFFD4,00C5CD,AEEEEE,BBFFFF)  <!-- 使用语言统计 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torchman005&show_icons=true&hide_title=true&text_color=8B6914&icon_color=483D8B&bg_color=DEG,008B8B,7FFFD4,00C5CD,AEEEEE,BBFFFF)  <!-- 使用语言统计 -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Torchman005/Torchman005/output/github-contribution-grid-snake-dark.svg">
