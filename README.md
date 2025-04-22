@@ -4,7 +4,7 @@
 <!-- Github统计卡片 -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Torchman005&repo=github-readme-stats)](https://github.com/Torchman005/github-readme-stats) <!-- 允许仓库置顶超过6个 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torchman005&show_icons=true&theme=tokyonight)  <!-- 使用语言统计 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torchman005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=DEG,#000000,#00868B,#000000)  <!-- 使用语言统计 -->
 
 
 
