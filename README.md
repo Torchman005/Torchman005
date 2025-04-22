@@ -1,4 +1,4 @@
-## Hi!Have a good day! 👋
+## Hi! Have a good day! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7DF&width=435&lines=There+is+JinYu!;Programing+is+life)](https://git.io/typing-svg)
 
