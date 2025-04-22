@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torchman005)](https://github.com/anuraghazra/github-readme-stats)  <!-- Github统计卡片 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torchman005)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<!-- Github统计卡片 -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Torchman005&repo=github-readme-stats)](https://github.com/Torchman005/github-readme-stats) <!-- 允许仓库置顶超过6个 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)  <!-- 使用语言统计 -->
