@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torchman005)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torchman005)  <!-- Github统计卡片 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)  <!-- 使用语言统计 -->
+
+
+
 
 <!--
 **Torchman005/Torchman005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
