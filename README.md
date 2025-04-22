@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi!Have a good day! 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7DF&width=435&lines=There+is+JinYu!;Programing+is+life)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torchman005&show_icons=true&theme=tokyonight&hide_border=true)
 <!-- Github统计卡片 -->
@@ -10,7 +12,10 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Torchman005&left_color=green&right_color=red)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Torchman005)
+
+
+
 
 
 
