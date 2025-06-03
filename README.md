@@ -1,6 +1,6 @@
 ## Hi! Have a good day! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7DF&width=435&lines=Here+is+JinYu!;Programmmming+is+life)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7DF&width=435&lines=Here+is+JinYu!;Programming+is+lifffffe)](https://git.io/typing-svg)
 
 ### 个人博客网站：https://jinyuuu.top/
 
