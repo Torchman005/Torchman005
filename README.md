@@ -4,7 +4,9 @@
 
 ### 个人博客网站：https://jinyuuu.top/
 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white&label=language&labelColor=gray" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&label=language&labelColor=gray" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=plastic&logo=javascript&label=language&labelColor=gray" /> <img src="https://img.shields.io/badge/-TypeScript-6d57ed?style=plastic&label=language&labelColor=gray" /> <img src="https://img.shields.io/badge/-Java-orange?style=plastic&label=language&labelColor=gray" /> <img src="https://img.shields.io/badge/-Python-232ccd?style=plastic&label=language&labelColor=gray" /> <img src="https://img.shields.io/badge/-Rust-eff835?style=plastic&label=language&labelColor=gray" /> 
+<img src="https://img.shields.io/badge/-Java-orange?style=plastic&label=main&labelColor=gray" /> <img src="https://img.shields.io/badge/-Python-232ccd?style=plastic&label=main&labelColor=gray" /> <img src="https://img.shields.io/badge/-Rust-f1524a?style=plastic&label=main&labelColor=gray" />
+
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=plastic&logo=javascript" /> <img src="https://img.shields.io/badge/-TypeScript-6d57ed?style=plastic" /> <img src="https://img.shields.io/badge/-Shell-3975ba?style=plastic" /> <img src="https://img.shields.io/badge/-C++-69a05f?style=plastic" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torchman005&show_icons=true&hide_title=true&text_color=4fa0dd&icon_color=27a2c1&bg_color=DEG,87cae1,aedbeb,7dc5de,d1ebf4,73c1dc)
 <!-- Github统计卡片 -->
