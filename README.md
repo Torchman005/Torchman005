@@ -6,11 +6,11 @@
 
 ![gif](https://github.com/Torchman005/Torchman005/blob/main/profile.gif)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torchman005&show_icons=true&hide_title=true&text_color=4fa0dd&icon_color=27a2c1&bg_color=DEG,87cae1,aedbeb,7dc5de,d1ebf4,73c1dc)  <!-- 使用语言统计 -->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torchman005&show_icons=true&hide_title=true&text_color=4fa0dd&icon_color=27a2c1&bg_color=DEG,87cae1,aedbeb,7dc5de,d1ebf4,73c1dc)
 <!-- Github统计卡片 -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Torchman005&repo=github-readme-stats)](https://github.com/Torchman005/github-readme-stats) <!-- 允许仓库置顶超过6个 -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torchman005&show_icons=true&hide_title=true&text_color=4fa0dd&icon_color=27a2c1&bg_color=DEG,87cae1,aedbeb,7dc5de,d1ebf4,73c1dc)  <!-- 使用语言统计 -->
 
 
 <picture>
