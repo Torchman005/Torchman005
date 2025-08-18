@@ -4,15 +4,12 @@
 
 ### 个人博客网站：https://jinyuuu.top/
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Torchman005&left_color=gray&right_color=red)
-
-![gif](https://github.com/Torchman005/Torchman005/blob/main/profile.gif)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torchman005&show_icons=true&hide_title=true&text_color=4fa0dd&icon_color=27a2c1&bg_color=DEG,87cae1,aedbeb,7dc5de,d1ebf4,73c1dc)  <!-- 使用语言统计 -->
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white&label=language&labelColor=gray" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&label=language&labelColor=gray" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=plastic&logo=javascript&label=language&labelColor=gray" /> <img src="https://img.shields.io/badge/-typescript-6d57ed?style=plastic&label=language&labelColor=gray" /> <img src="https://img.shields.io/badge/-Java-orange?style=plastic&label=language&labelColor=gray" /> <img src="https://img.shields.io/badge/-python-232ccd?style=plastic&label=language&labelColor=gray" /> <img src="https://img.shields.io/badge/-rust-eff835?style=plastic&label=language&labelColor=gray" /> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torchman005&show_icons=true&hide_title=true&text_color=4fa0dd&icon_color=27a2c1&bg_color=DEG,87cae1,aedbeb,7dc5de,d1ebf4,73c1dc)
 <!-- Github统计卡片 -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Torchman005&repo=github-readme-stats)](https://github.com/Torchman005/github-readme-stats) <!-- 允许仓库置顶超过6个 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torchman005&show_icons=true&hide_title=true&text_color=4fa0dd&icon_color=27a2c1&bg_color=DEG,87cae1,aedbeb,7dc5de,d1ebf4,73c1dc)  <!-- 使用语言统计 -->    ![gif](https://github.com/Torchman005/Torchman005/blob/main/profile.gif)
 
 
 <picture>
