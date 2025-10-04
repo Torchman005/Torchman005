@@ -1,6 +1,6 @@
 # Hi! Have a good day! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7DF&width=435&lines=Here+is+JinYu!;Programming+is+lifffffe!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=97f6f5&width=435&lines=Here+is+Luminous!;Programming+is+lifffffe!!!)](https://git.io/typing-svg)
 
 ## INFO
 
