@@ -6,7 +6,7 @@
 
 * 📕from QLU
 * 🍊study in Orange Studio
-* 🎈personal blog site：https://jinyuuu.top/
+* 🎈personal blog site：https://luminous.blog/
 
 ## Tech Stack
 
