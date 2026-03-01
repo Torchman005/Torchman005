@@ -8,7 +8,8 @@
 
 * 📕from QLU
 * 🍊MLOps&IT&CSER
-* 🎈personal blog site：https://luminous.blog/
+* 🎈homepage：https://luminous.blog/
+* ✨personal blog: https://blog.luminous.blog/
 
 ## Tech Stack
 
