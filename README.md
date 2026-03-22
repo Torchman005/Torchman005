@@ -11,7 +11,7 @@
 * 🎈homepage：https://luminous.blog/
 * ✨personal blog: https://blog.luminous.blog/
 
-## Tech Stack
+## In Use
 
 [![我的技能](https://skillicons.dev/icons?i=js,html,css,ts,vue,vite,npm,nginx,java,spring,maven,gradle,kotlin,androidstudio,mysql,redis,mongodb,postgresql,elasticsearch,python,anaconda,fastapi,c,cpp,linux,git,github,docker,k8s,electron,go,vim,bash,cloudflare,vscode)](https://skillicons.dev)
 
